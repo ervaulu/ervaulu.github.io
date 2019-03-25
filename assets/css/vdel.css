@@ -57,7 +57,7 @@ div.bibtex {
 
 .divBanner { 
   height: auto; 
-  width: 1000px; 
+  width: 800px; 
   overflow: hidden;
   /*border:1px solid #aeaaa5;*/
   clip: rect(auto,auto,auto,auto);
